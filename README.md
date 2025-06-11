@@ -11,4 +11,3 @@ Supplement data for the TAC committee
 | muscle-I20250520-081737-0209-93664132-p1m.aln-clustalw | AtPLL12, AtPLL2                                          |
 | muscle-I20250520-082041-0032-81381343-p1m.aln-clustalw | AtPLL12, AtPLL1                                          |
 | muscle-I20250519-192830-0078-89417111-p1m.aln-clustalw | AtPLL12, AtPLL13, AtPLL4, JaPly1, AtPLL2, AtPLL1, DdPelC |
-|                                                        |                                                          |
